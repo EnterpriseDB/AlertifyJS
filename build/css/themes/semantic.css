@@ -1,7 +1,7 @@
 /**
  * alertifyjs 1.7.1 http://alertifyjs.com
  * AlertifyJS is a javascript framework for developing pretty browser dialogs and notifications.
- * Copyright 2016 Mohammad Younes <Mohammad@alertifyjs.com> (http://alertifyjs.com) 
+ * Copyright 2020 Mohammad Younes <Mohammad@alertifyjs.com> (http://alertifyjs.com) 
  * Licensed under MIT <http://opensource.org/licenses/mit-license.php>*/
 .alertify .ajs-dimmer {
   background-color: rgba(0, 0, 0, 0.85);
@@ -32,13 +32,13 @@
 .alertify .ajs-body .ajs-content .ajs-input {
   width: 100%;
   margin: 0;
-  padding: .65em 1em;
+  padding: 0.65em 1em;
   font-size: 1em;
   background-color: #FFF;
   border: 1px solid rgba(0, 0, 0, 0.15);
   outline: 0;
   color: rgba(0, 0, 0, 0.7);
-  border-radius: .3125em;
+  border-radius: 0.3125em;
   transition: background-color 0.3s ease-out, box-shadow 0.2s ease, border-color 0.2s ease;
   box-sizing: border-box;
 }
